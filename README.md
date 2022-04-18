@@ -34,7 +34,7 @@ In this project users will be able to:
 ### Links👩🏾‍💻
 
 - Solution URL: (https://github.com/MaianneThornton/50in50_ExpandingCards)
-- Live Site URL: (https://cozy-jalebi-bcd93b.netlify.app/)
+- Live Site URL: (https://rotatingnavigationanimation.netlify.app/)
 
 ## My process💭
 
