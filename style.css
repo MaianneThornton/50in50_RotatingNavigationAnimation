@@ -13,6 +13,14 @@ body {
   margin: 0;
 }
 
+.loading-text {
+  font-size: 50px;
+  color: #000;
+  position: absolute;
+  top: 50vh;
+  left: 45vw;
+}
+
 .container {
   background-color: #fafafa;
   /* Switching the transform pivot point from the center of the container to the upper left corner */
@@ -22,6 +30,7 @@ body {
   width: 100vw;
   min-height: 100vh;
   padding: 50px;
+  z-index: -1;
 }
 
 .container.show-nav {
