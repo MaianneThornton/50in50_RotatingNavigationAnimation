@@ -33,12 +33,14 @@ In this project users will be able to:
 
 ### Links👩🏾‍💻
 
-- Solution URL: (https://github.com/MaianneThornton/50in50_ExpandingCards)
-- Live Site URL: (https://rotatingnavigationanimation.netlify.app/)
+- Solution URL: (https://github.com/MaianneThornton/50in50_RotatingNavigationAnimation)
+- Live Site URL: (https://maianne-rotatingnavigation.netlify.app/)
 
 ## My process💭
 
-I started by marking out initial classes and in the html file to be later used for styling. I also added images and icons during this step. Next I began styling the css to begin building the visuals. I then added the animation to rotate the page when the navigation bar is opened. Lastly, I added functionality by way of JavaScript to switch between classes when the user clicks on a button.
+I started by marking out initial classes and in the html file to be later used for styling. I also added images and icons during this step. Next I began styling the css to begin building the visuals. I then added the animation to rotate the page when the navigation bar is opened. I added functionality by way of JavaScript to switch between classes when the user clicks on a button.
+
+Later I brought over the loading animations that I learned while completing the [Blurry Loading](https://github.com/MaianneThornton/50in50_BlurryLoading) project into this project. 
 
 ### Built with👷🏾‍♀️
 
